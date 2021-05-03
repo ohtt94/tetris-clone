@@ -1,0 +1,18 @@
+1. css, js 등 기본 폴더 및 파일 생성.
+
+2. reset.css 파일 생성 후 style.css 파일에 import.
+   @import "reset.css";
+
+3. "!" 이용 기초사항 작성 후 stylesheet link.
+   <link rel="stylesheet" href="css/style.css">
+
+4. title 변경 "Tetris-clone".
+
+5. tetris 'main' div 생성. main.css 파일 생성후 style.css에 import.
+   @import "screens/main.css";
+   (*div 등 object 생성 시 class attribute를 사용.)
+
+6. 기초적인 div 생성 및 position, display 등 attribute 설정.
+
+7. main.js 파일 생성 및 src 삽입.
+   <script src="js/main.js"></script>
